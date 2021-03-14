@@ -11,7 +11,7 @@
 //Sensörün çalışması için gerekli ön ısıtma süresini 5sn olarak belirliyoruz
 #define preheat_time 10000
 //Alarmın çalması için gerekli eşik değerini 300 olarak belirliyoruz.
-#define threshold 500
+#define threshold 500 // thresold degerini kendiniz deneyerek bulunuz.
 #undef HIGH
 #undef LOW
 #define HIGH 0
